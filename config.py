@@ -1,5 +1,11 @@
-# config.py
-
+"""
+@File    :   config.py
+@Time    :   2024/12/29
+@Author  :   Galaxy9572
+@Version :   1.0.0
+@Contact :   ljy957266@gmail.com
+@License :   (C)Copyright Galaxy9572
+"""
 class Config:
     # 服务器配置
     HOST = '0.0.0.0'

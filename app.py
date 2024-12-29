@@ -1,3 +1,11 @@
+"""
+@File    :   app.py
+@Time    :   2024/12/29
+@Author  :   Galaxy9572
+@Version :   1.0.0
+@Contact :   ljy957266@gmail.com
+@License :   (C)Copyright Galaxy9572
+"""
 from flask import Flask, request, jsonify, Response
 from werkzeug.utils import secure_filename
 from paddleocr import PaddleOCR
