@@ -25,4 +25,4 @@ class Config:
     # 智谱AI配置
     ZHIPUAI_API_KEY = '你自己的API Key'
     ZHIPUAI_LANGUAGE_MODEL = 'glm-4-flash'
-    ZHIPUAI_VISION_MODEL = 'glm-4v-plus'
+    ZHIPUAI_VISION_MODEL = 'glm-4v-flash'

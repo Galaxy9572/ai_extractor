@@ -63,6 +63,8 @@ pip install -r requirements.txt
 ZHIPUAI_API_KEY = '你的API密钥'
 ```
 
+**目前项目使用智谱免费的 `glm-4-flash` 和 `glm-4v-flash` 模型实现功能，如想实现更好的效果，可以使用 `glm-4-plus` 和 `glm-4v-plus` 模型**
+
 ### 4.2、应用配置
 
 在 `config.py` 中可以自定义：
